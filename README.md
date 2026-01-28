@@ -1,4 +1,4 @@
-# 🎌 AnimeFree Mobile
+# 🎌 AnimeFree Desktop & Mobile
 > *Tu portal de anime definitivo. Nativo, fluido y sin interrupciones.*
 
 <div align="center">
