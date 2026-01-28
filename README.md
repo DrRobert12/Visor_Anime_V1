@@ -16,15 +16,6 @@
 
 ---
 
-## 🎬 Demo en Acción
-
-<div align="center">
-  <img src="https://github.com/DrRobert12/Visor_Anime_V1/blob/main/docs/screenshots/home.png" alt="Pantalla Principal" width="200"/>
-  <img src="https://github.com/DrRobert12/Visor_Anime_V1/blob/main/docs/screenshots/details.png" alt="Detalles del Anime" width="200"/>
-  <img src="https://github.com/DrRobert12/Visor_Anime_V1/blob/main/docs/screenshots/player.png" alt="Reproductor" width="200"/>
-</div>
----
-
 ## 🚀 ¿Qué es AnimeFree?
 
 AnimeFree no es solo otro visor; es una **experiencia diseñada para amantes del anime** que valoran la calidad y la velocidad. Olvídate de las webs llenas de publicidad invasiva y reproductores lentos.
