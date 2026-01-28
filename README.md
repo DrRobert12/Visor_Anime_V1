@@ -6,16 +6,6 @@
 [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&style=for-the-badge)](https://www.android.com)
 [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
 
-<br>
-
-<div align="center">
-  <img src="https://via.placeholder.com/300x600.png?text=Home+Screen" alt="Home Screen" width="200"/>
-  <img src="https://via.placeholder.com/300x600.png?text=Player+UI" alt="Player UI" width="200"/>
-  <img src="https://via.placeholder.com/300x600.png?text=Details" alt="Anime Details" width="200"/>
-</div>
-
-<br>
-
 ## 🚀 ¿Qué es AnimeFree?
 AnimeFree no es solo otro visor; es una experiencia diseñada para **amantes del anime** que valoran la calidad y la velocidad. Olvídate de las webs llenas de publicidad invasiva y reproductores lentos.
 
