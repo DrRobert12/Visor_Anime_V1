@@ -125,10 +125,10 @@ graph TB
     end
     
     subgraph "Backend Logic"
-        E[📡 API Endpoints<br/>api.py]
-        E1[/api/buscar]
-        E2[/api/episodios]
-        E3[/api/enlaces]
+        E["📡 API Endpoints<br/>api.py"]
+        E1["/api/buscar"]
+        E2["/api/episodios"]
+        E3["/api/enlaces"]
         
         D --> E
         E --> E1
@@ -160,7 +160,7 @@ graph TB
         A2 -.-> H
     end
     
-    A2 -->|HTTP REST| D
+    A2 -->|"HTTP REST"| D
     
     style A fill:#02569B,stroke:#fff,color:#fff
     style D fill:#3776AB,stroke:#fff,color:#fff
@@ -192,7 +192,7 @@ graph TB
 ### Opción 2: Compilar desde Código
 ```bash
 # Clona el repositorio
-git clone https://github.com/DrRobert12/AnimeFree.git
+git clone https://github.com/DrRobert12/Visor_Anime_V1
 cd AnimeFree/mobile
 
 # Instala dependencias
@@ -226,12 +226,6 @@ flutter build apk --release
 
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar AnimeFree:
 
-1. Haz un **Fork** del proyecto
-2. Crea una **rama** para tu feature (`git checkout -b feature/AmazingFeature`)
-3. **Commit** tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un **Pull Request**
-
 ---
 
 ## 📄 Licencia
@@ -242,16 +236,10 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ## 👨‍💻 Sobre el Desarrollador
 
-**RobertDev** - Desarrollador Full Stack apasionado por crear experiencias móviles excepcionales.
+**RobertDev**
 
 [![GitHub](https://img.shields.io/badge/GitHub-DrRobert12-181717?logo=github&style=flat-square)](https://github.com/DrRobert12)
-[![Portfolio](https://img.shields.io/badge/Portfolio-robertdev.com-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
 
-### 💡 ¿Te gustó el proyecto?
-Si AnimeFree te resultó útil o te inspiró, considera:
-- ⭐ Dejar una estrella en el repositorio
-- 🐛 Reportar bugs o sugerir mejoras
-- 📢 Compartirlo con otros desarrolladores
 
 ---
 
@@ -263,3 +251,4 @@ Si AnimeFree te resultó útil o te inspiró, considera:
 *El contenido mostrado es propiedad de sus respectivos dueños.*
 
 </div>
+
