@@ -19,18 +19,10 @@
 ## 🎬 Demo en Acción
 
 <div align="center">
-  <img src="docs/demo.gif" alt="AnimeFree Demo" width="250"/>
-  <p><i>Experiencia fluida de búsqueda, navegación y reproducción</i></p>
+  <img src="https://github.com/DrRobert12/Visor_Anime_V1/blob/main/docs/screenshots/home.png" alt="Pantalla Principal" width="200"/>
+  <img src="https://github.com/DrRobert12/Visor_Anime_V1/blob/main/docs/screenshots/details.png" alt="Detalles del Anime" width="200"/>
+  <img src="https://github.com/DrRobert12/Visor_Anime_V1/blob/main/docs/screenshots/player.png" alt="Reproductor" width="200"/>
 </div>
-
-## 📸 Screenshots
-
-<div align="center">
-  <img src="docs/screenshots/home.png" alt="Pantalla Principal" width="200"/>
-  <img src="docs/screenshots/details.png" alt="Detalles del Anime" width="200"/>
-  <img src="docs/screenshots/player.png" alt="Reproductor" width="200"/>
-</div>
-
 ---
 
 ## 🚀 ¿Qué es AnimeFree?
